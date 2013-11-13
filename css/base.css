@@ -139,4 +139,49 @@ footer a:hover {
         text-align: center;
 }
 
+@media screen and (max-width: 600px) {
+    
+    body {
+        padding: 5%;
+        clear: left; 
+        margin-left: 5%;
+    }
+    
+    header h1, h2 {
+        text-align: center;
+        font-size: 16px;
+        margin-right: 5%; 
+        display: inline;
+        width: 110%;
+        border-style: groove;
+    }
+    
+    header nav {
+        margin-left: 5%; 
+        width: 100%;
+    }
+    
+    footer nav {
+        margin-left: 5%;
+        width: 100%;
+    }
+    
+    header a {
+        display: inline; 
+        margin-left: 5%; 
+        margin-right: 5%;
+        text-align: center;
+        font-size: 15px; 
+    }
+    
+    footer a{
+        display: inline; 
+        margin-left: 5%; 
+        margin-right: 5%;
+        text-align: center;
+        font-size: 15px;
+    }
+      
+}
+
 
