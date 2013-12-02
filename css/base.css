@@ -34,8 +34,8 @@ header nav {
     float: left;
     margin-top: 20px;
     margin-bottom: 20px;
-    margin-left: 20px;
-    margin-right: 0px;
+    margin-left: 45px;
+    margin-right: 20px;
     font-size: 20px;  
     border-style: solid;
     border-color: #000000;
@@ -46,8 +46,8 @@ header nav {
 
 header a {
     color: #aaaaaa;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 70px;
+    margin-right: 70px;
     text-decoration: inherit; 
 }
 
@@ -107,8 +107,8 @@ footer nav {
     float: left;
     margin-top: 20px;
     margin-bottom: 20px;
-    margin-left: 20px;
-    margin-right: 0px;
+    margin-left: 45px;
+    margin-right: 20px;
     border-style: solid;
     border-color: #000000;
     text-align: left; 
@@ -117,8 +117,8 @@ footer nav {
 
 footer a {
     color: #aaaaaa;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 70px;
+    margin-right: 70px;
     text-decoration: inherit; 
     
 }
@@ -173,7 +173,7 @@ footer a:hover {
         text-align: center;
         font-size: 15px; 
     }
-    
+     
     footer a{
         display: inline; 
         margin-left: 0%; 
